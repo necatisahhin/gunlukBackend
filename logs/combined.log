@@ -1,0 +1,314 @@
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:27:27"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-05-29 17:27:27"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-05-29 17:27:27"}
+{"level":"info","message":"\u001b[0mGET /api/v1/status \u001b[32m200\u001b[0m 13.304 ms - 89\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:28:26"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/register \u001b[32m201\u001b[0m 82.810 ms - 422\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:29:37"}
+{"level":"error","message":"Gemini API yanıtı JSON olarak ayrıştırılamadı: SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Object.analyzeMood (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/utils/gemini-api.js:53:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.createJournalEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/journal-service.js:22:26)\n    at async createEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/journal-controller.js:15:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Unexpected token \\'`\\', \"```json\\n{\\n\"... is not valid JSON'\n}","service":"sanal-terapi-api","timestamp":"2025-05-29 17:32:02"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 2853.518 ms - 1114\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:32:02"}
+{"level":"error","message":"Gemini API yanıtı JSON olarak ayrıştırılamadı: SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Object.analyzeMood (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/utils/gemini-api.js:53:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.createJournalEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/journal-service.js:22:26)\n    at async createEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/journal-controller.js:15:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Unexpected token \\'`\\', \"```json\\n{\\n\"... is not valid JSON'\n}","service":"sanal-terapi-api","timestamp":"2025-05-29 17:34:06"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 2120.912 ms - 1114\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:34:06"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:37:46"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-05-29 17:37:46"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-05-29 17:37:46"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:38:15"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-05-29 17:38:15"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-05-29 17:38:15"}
+{"level":"error","message":"Gemini API yanıtı JSON olarak ayrıştırılamadı: SyntaxError: Unexpected token '`', \"```json\n{\n\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at Object.analyzeMood (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/utils/gemini-api.js:53:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.createJournalEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/journal-service.js:22:26)\n    at async createEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/journal-controller.js:15:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Unexpected token \\'`\\', \"```json\\n{\\n\"... is not valid JSON'\n}","service":"sanal-terapi-api","timestamp":"2025-05-29 17:38:20"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 3230.069 ms - 2035\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:38:20"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:42:38"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-05-29 17:42:38"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-05-29 17:42:38"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 2680.140 ms - 1693\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-05-29 17:42:47"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:28"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:28"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:28"}
+{"level":"info","message":"Uygulama güvenli bir şekilde kapatılıyor...","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:35"}
+{"level":"info","message":"HTTP sunucusu kapatıldı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:35"}
+{"level":"info","message":"Veritabanı bağlantısı kapatıldı","service":"sanal-terapi-api","timestamp":"2025-05-29 17:44:35"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-02 23:30:29"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-02 23:30:29"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-02 23:30:29"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 1.003 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:36:40"}
+{"level":"error","message":"Kullanıcı girişi başarısız: Error: Geçersiz e-posta veya şifre\n    at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n    at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Geçersiz e-posta veya şifre',\n  statusCode: 401\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:36:40"}
+{"level":"error","message":"Hata yakalandı: {\n  error: Error: Geçersiz e-posta veya şifre\n      at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n      at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n    [stack]: [Getter/Setter],\n    [message]: 'Geçersiz e-posta veya şifre',\n    statusCode: 401\n  },\n  url: '/api/v1/auth/login',\n  method: 'POST',\n  ip: '::1'\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:36:40"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m401\u001b[0m 61.843 ms - 355\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:36:40"}
+{"level":"error","message":"Kullanıcı girişi başarısız: Error: Geçersiz e-posta veya şifre\n    at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n    at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Geçersiz e-posta veya şifre',\n  statusCode: 401\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:37:46"}
+{"level":"error","message":"Hata yakalandı: {\n  error: Error: Geçersiz e-posta veya şifre\n      at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n      at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n    [stack]: [Getter/Setter],\n    [message]: 'Geçersiz e-posta veya şifre',\n    statusCode: 401\n  },\n  url: '/api/v1/auth/login',\n  method: 'POST',\n  ip: '::1'\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:37:46"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m401\u001b[0m 9.253 ms - 355\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:37:46"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.144 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:39:26"}
+{"level":"error","message":"Kullanıcı girişi başarısız: Error: Geçersiz e-posta veya şifre\n    at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n    at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Geçersiz e-posta veya şifre',\n  statusCode: 401\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:39:26"}
+{"level":"error","message":"Hata yakalandı: {\n  error: Error: Geçersiz e-posta veya şifre\n      at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n      at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n    [stack]: [Getter/Setter],\n    [message]: 'Geçersiz e-posta veya şifre',\n    statusCode: 401\n  },\n  url: '/api/v1/auth/login',\n  method: 'POST',\n  ip: '::1'\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:39:26"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m401\u001b[0m 4.965 ms - 355\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:39:26"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.089 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:45:43"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m400\u001b[0m 1.709 ms - 98\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:45:43"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m400\u001b[0m 2.786 ms - 98\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:45:44"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.145 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:46:06"}
+{"level":"error","message":"Kullanıcı girişi başarısız: Error: Geçersiz e-posta veya şifre\n    at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n    at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n  [stack]: [Getter/Setter],\n  [message]: 'Geçersiz e-posta veya şifre',\n  statusCode: 401\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:46:06"}
+{"level":"error","message":"Hata yakalandı: {\n  error: Error: Geçersiz e-posta veya şifre\n      at Object.login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/auth-service.js:66:21)\n      at async login (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/auth-controller.js:33:20) {\n    [stack]: [Getter/Setter],\n    [message]: 'Geçersiz e-posta veya şifre',\n    statusCode: 401\n  },\n  url: '/api/v1/auth/login',\n  method: 'POST',\n  ip: '::1'\n}","service":"sanal-terapi-api","timestamp":"2025-06-02 23:46:06"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[33m401\u001b[0m 10.249 ms - 355\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-02 23:46:06"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/register \u001b[32m204\u001b[0m 0.090 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:00:57"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/register \u001b[33m400\u001b[0m 1.073 ms - 228\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:00:57"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/register \u001b[32m204\u001b[0m 0.268 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:01:50"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/register \u001b[32m201\u001b[0m 97.307 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:01:50"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/register \u001b[32m204\u001b[0m 0.140 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:03:10"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/register \u001b[33m400\u001b[0m 2.400 ms - 228\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:03:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/register \u001b[32m204\u001b[0m 0.185 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:03:15"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/register \u001b[33m400\u001b[0m 1.200 ms - 228\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:03:15"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.396 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:07:19"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 82.956 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:07:19"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.204 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:07:22"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 80.136 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:07:22"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.090 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:08"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 57.757 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:08"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.080 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:13"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 75.060 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:13"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.077 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:42"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 75.846 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:08:43"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.084 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:16:52"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 84.784 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:16:52"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.072 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:16:58"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 76.566 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:16:58"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.067 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:17:15"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 75.654 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 00:17:15"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 13:35:59"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 13:35:59"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 13:35:59"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 2.510 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:42:20"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 128.896 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:42:20"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.165 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:44:10"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 81.057 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:44:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.152 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:45:22"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 76.842 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:45:22"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.077 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:47:22"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 84.933 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 13:47:22"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.174 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:06:02"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 82.715 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:06:02"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journal \u001b[32m204\u001b[0m 0.270 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:37:29"}
+{"level":"error","message":"Hata yakalandı: {\n  error: Error: Bulunamadı - /api/v1/journal\n      at notFoundHandler (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/middlewares/error-handler.js:25:15)\n      at Layer.handle [as handle_request] (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/layer.js:95:5)\n      at trim_prefix (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:328:13)\n      at /Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:286:9\n      at Function.process_params (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:346:12)\n      at next (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:280:10)\n      at /Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:646:15\n      at next (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:265:14)\n      at Function.handle (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:175:3)\n      at router (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/express/lib/router/index.js:47:12) {\n    [stack]: [Getter/Setter],\n    [message]: 'Bulunamadı - /api/v1/journal',\n    statusCode: 404\n  },\n  url: '/api/v1/journal',\n  method: 'POST',\n  ip: '::1'\n}","service":"sanal-terapi-api","timestamp":"2025-06-03 14:37:29"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journal \u001b[33m404\u001b[0m 2.568 ms - 1354\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:37:29"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.103 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:38:18"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 3691.660 ms - 1712\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 14:38:22"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 15:39:45"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 15:39:45"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 15:39:45"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 1.066 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:52:46"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.209 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:52:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 37.620 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:52:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 1.788 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:52:46"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.237 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:53:04"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.098 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:53:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 6.392 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:53:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.272 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:53:04"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.127 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:56:54"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.342 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:56:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.501 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:56:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.299 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:56:54"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.133 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:00"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.073 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:00"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.194 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:00"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.160 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:00"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.285 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:01"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.469 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:01"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.442 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:02"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.122 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:02"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.046 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:02"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.166 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:02"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.440 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.200 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.347 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.131 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.787 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.112 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.553 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.177 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.576 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.522 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.178 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.342 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:04"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.085 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.081 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.578 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.207 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.621 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.130 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.852 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 1.599 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.135 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.155 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:06"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.269 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.045 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.590 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.135 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.923 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.468 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:07"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.838 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.345 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.887 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.684 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.363 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.808 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.541 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 1.942 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.146 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.133 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.092 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.600 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.711 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.490 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.219 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:35"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.105 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:35"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.103 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:39"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.143 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:39"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.075 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:39"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.531 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:39"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.309 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:40"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.963 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:57:40"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.062 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:08"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.053 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 8.883 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.210 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:08"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.306 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.784 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.948 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.201 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.060 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.611 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.596 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 1.802 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.111 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:23"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.120 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:23"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.199 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:23"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.624 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:23"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.047 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:26"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.033 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:26"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.094 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:51"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.092 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:51"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.450 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:51"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.897 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 15:59:51"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.075 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:03:00"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.093 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:03:00"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.187 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:03:00"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.057 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:03:00"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 16:04:49"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 16:04:49"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 16:04:49"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:00"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:00"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:00"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:09"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:09"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 16:05:09"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 1.713 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:06:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.222 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:06:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 15.006 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:06:10"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 10.314 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:06:10"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.121 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:09:11"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.114 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:09:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 6.426 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:09:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.833 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:09:11"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.351 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:12:46"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.193 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:12:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 8.393 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:12:46"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 11.157 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:12:46"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.125 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:13:13"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.090 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:13:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 3.657 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:13:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 2.906 ms - 1721\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:13:13"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals/6d013864-0b9f-43fc-b098-8170997d31b8 \u001b[32m204\u001b[0m 0.127 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:08"}
+{"level":"info","message":"\u001b[0mDELETE /api/v1/journals/6d013864-0b9f-43fc-b098-8170997d31b8 \u001b[32m200\u001b[0m 17.929 ms - 69\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:08"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.114 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:12"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.143 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 3.016 ms - 54\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:12"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 2.584 ms - 54\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:12"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.086 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:14"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 3.623 ms - 54\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:14:14"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.074 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:15:42"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.091 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:15:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 2.953 ms - 54\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:15:42"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 2.401 ms - 54\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:15:42"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.085 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:16:59"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 5889.184 ms - 3802\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:17:05"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.077 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:17:09"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.066 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:17:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.598 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:17:09"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.239 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:17:09"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.084 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:25:13"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.097 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:25:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 16.592 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:25:13"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 15.342 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:25:13"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.091 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:26:22"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.076 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:26:22"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 5.742 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:26:22"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 5.280 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:26:22"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.120 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:29:04"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.129 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:29:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 5.964 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:29:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.881 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:29:04"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.071 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:30:20"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.059 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:30:20"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 12.898 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:30:20"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 12.747 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:30:20"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.084 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:19"}
+{"level":"error","message":"Gemini API çağrısı başarısız: GoogleGenerativeAIError: [503 Service Unavailable] The model is overloaded. Please try again later.\n    at makeRequest (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/@google/generative-ai/dist/index.js:212:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async generateContent (/Users/necatisahin/Documents/ReactDers/firstAppBackend/node_modules/@google/generative-ai/dist/index.js:536:22)\n    at async Object.analyzeMood (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/utils/gemini-api.js:48:20)\n    at async Object.createJournalEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/services/journal-service.js:22:26)\n    at async createEntry (/Users/necatisahin/Documents/ReactDers/firstAppBackend/src/controllers/journal-controller.js:15:20) {\n  [stack]: [Getter/Setter],\n  [message]: '[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.'\n}","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:19"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 557.577 ms - 2314\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:19"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.086 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:23"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.083 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:23"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.458 ms - 6081\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:23"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.669 ms - 6081\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:23"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.104 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:47"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.073 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.207 ms - 6081\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 3.056 ms - 6081\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:47"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals/0be01120-d00e-45ae-a4fa-55aa036ecbdf \u001b[32m204\u001b[0m 0.081 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:50"}
+{"level":"info","message":"\u001b[0mDELETE /api/v1/journals/0be01120-d00e-45ae-a4fa-55aa036ecbdf \u001b[32m200\u001b[0m 6.287 ms - 69\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:50"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.079 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 3.945 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:50"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.106 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:52"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 4.362 ms - 3811\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:31:52"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.142 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:30"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.056 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:30"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 16.136 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:30"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.198 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:30"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.070 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:47"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.058 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.115 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.553 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.698 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.239 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:35:50"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.075 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:18"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.051 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:18"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.131 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:18"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 2.768 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:18"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.069 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:39"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.058 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:39"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 5.201 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:39"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.644 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:39"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.068 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:50"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.053 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.519 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.350 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:37:50"}
+{"level":"info","message":"Veritabanı bağlantısı başarılı","service":"sanal-terapi-api","timestamp":"2025-06-03 16:39:03"}
+{"level":"info","message":"Server development modunda çalışıyor","service":"sanal-terapi-api","timestamp":"2025-06-03 16:39:03"}
+{"level":"info","message":"http://localhost:5001/api/v1/status adresinden erişilebilir","service":"sanal-terapi-api","timestamp":"2025-06-03 16:39:03"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 2.213 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:47"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 97.808 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:47"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.236 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:54"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.167 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 11.861 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:54"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.583 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:48:54"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.128 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:22"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/journals \u001b[32m201\u001b[0m 4484.569 ms - 3295\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:26"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.077 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:29"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.232 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:29"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[32m200\u001b[0m 9.172 ms - 7062\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:29"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.659 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 16:49:29"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/auth/login \u001b[32m204\u001b[0m 0.147 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:01"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/auth/login \u001b[32m200\u001b[0m 93.334 ms - 410\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:01"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.092 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:26"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.075 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:26"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 10.207 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:26"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 4.925 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:10:26"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.347 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:11:21"}
+{"level":"info","message":"\u001b[0mOPTIONS /api/v1/journals \u001b[32m204\u001b[0m 0.077 ms - 0\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:11:21"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 6.192 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:11:21"}
+{"level":"info","message":"\u001b[0mGET /api/v1/journals \u001b[36m304\u001b[0m 3.036 ms - -\u001b[0m","service":"sanal-terapi-api","timestamp":"2025-06-03 17:11:21"}
